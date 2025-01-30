@@ -32,7 +32,7 @@ The Econoscope can be used to educate the public about economic issues and polic
 
 3.1 Holistic View: 
 
-The Econoscope incorporates a wide range of modern economic factors, such as mass migration, quantitative easing, technological advancements, climate change, and more. This provides a holistic view of the economy and captures the complexity of real-world interactions.
+The Econoscope incorporates a wide range of modern economic factors, eventually incorporating mass migration, quantitative easing, technological advancements, climate change, and more. This provides a holistic view of the economy and captures the complexity of real-world interactions.
 
 3.2 Flexibility:
 
